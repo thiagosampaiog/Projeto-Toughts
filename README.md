@@ -1,3 +1,6 @@
+Projeto realizado durante o curso de node.js do matheusbattisti
+
+
 # 🧠 Projeto Toughts
 
 Aplicação web para compartilhar pensamentos! Aqui você pode criar, visualizar, buscar e deletar seus pensamentos. Cada pensamento é associado a um usuário.
